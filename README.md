@@ -22,7 +22,7 @@ package main
 import "fmt"
 
 func main() {
-    fmt.Println("rain has always been my friend")
+    fmt.Println("goodbye world")
 }
 ```
 
