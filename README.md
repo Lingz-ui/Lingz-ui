@@ -26,6 +26,11 @@ func main() {
     fmt.Println("goodbye world")
 }
 ```
+<div align="center">
+
+ ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+
 
 :page_with_curl: I'm currently learning:
 #### Languages and Tools:
